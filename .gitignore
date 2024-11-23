@@ -2,4 +2,4 @@
 .venv
 .mypy*
 */__pycache__/**
-/chroma
+*/chroma

@@ -26,6 +26,7 @@ langchain-openai = "^0.2.8"
 python-dotenv = "^1.0.1"
 ragas = "^0.2.5"
 nltk = "^3.9.1"
+markdown-it-py = "^3.0.0"
 
 
 [build-system]
